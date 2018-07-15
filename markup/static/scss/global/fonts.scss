@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../fonts/Nunito-Regular.ttf');
+    font-weight: 400;       // For normal width. It could has another value
+    font-style: normal;     // Also could has another value
+    }
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../../fonts/Poppins-Regular.ttf');
+    font-weight: 400;       // For normal width. It could has another value
+    font-style: normal;     // Also could has another value
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../../fonts/Poppins-SemiBold.ttf');
+    font-weight: 600;       // For normal width. It could has another value
+    font-style: normal;     // Also could has another value
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../../fonts/Raleway-Regular.ttf');
+    font-weight: 400;       // For normal width. It could has another value
+    font-style: normal;     // Also could has another value
+}
+
+
+// Var for using custom font
+$NunitoFont: 'Nunito', Helvetica, Arial, sans-serif;
+$PoppinsFont: 'Poppins', Helvetica, Arial, sans-serif;
+$RalewayFont: 'Raleway', Helvetica, Arial, sans-serif;

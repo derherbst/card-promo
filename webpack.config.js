@@ -2,6 +2,7 @@
 
 const path = require('path');
 const cwd = process.cwd();
+const pug = require('pug');
 const webpack = tars.require('webpack');
 
 const staticFolderName = tars.config.fs.staticFolderName;

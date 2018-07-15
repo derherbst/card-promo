@@ -1,0 +1,11 @@
+@import 'normalize';
+
+/* Libraries, which is used in current project. */
+@import 'entry/built-in-partials/service';
+
+@import "blocks/page-header";
+@import "blocks/main-logo";
+@import "blocks/main-nav";
+@import "blocks/introduction";
+@import "blocks/main";
+@import "blocks/section";

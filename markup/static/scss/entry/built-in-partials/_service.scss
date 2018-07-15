@@ -10,13 +10,13 @@
 @import '../../sprites-scss/svg-sprite.scss';
 
 /* Scss for used fonts */
-@import '../../fonts.scss';
+@import '../../global/fonts';
 
 /* Vars, which are specific for current project */
 @import '../../vars.scss';
 
 /* Styles for UI-elements */
-@import '../../GUI.scss';
+@import '../../global/GUI';
 
 /* Common styles for current project */
-@import '../../common.scss';
+@import '../../global/common';
